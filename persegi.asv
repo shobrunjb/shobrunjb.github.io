@@ -1,0 +1,6 @@
+%rumus persegi
+sisi1=input(5
+sisi2=5
+rumusluaspersegi=(sisi1*sisi2)
+disp(rumusluaspersegi)
+

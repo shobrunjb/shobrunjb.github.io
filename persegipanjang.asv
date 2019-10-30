@@ -1,0 +1,6 @@
+%rumus belah ketupat
+alas=input('masukkan alas=')
+tinggi=input('masukkan leb=')
+rumusluaspersegipanjang=(alas*tinggi)
+disp(rumusluaspersegipanjang)
+
